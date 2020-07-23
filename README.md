@@ -3,4 +3,4 @@
 # Corona Aid
 This is the documentation of all *Corona Aid* related projects. It is only avilable in German though.
 
-Take a look into our wiki [to learn more about Corona Aid](https://github.com/StudentsAgainstCovid19/corona-aid-docs/wiki).
+Take a look [into our wiki](https://github.com/StudentsAgainstCovid19/corona-aid-docs/wiki) to learn more about Corona Aid.
