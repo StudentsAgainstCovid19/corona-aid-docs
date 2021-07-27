@@ -1,14 +1,5 @@
-# Impressum
-
-```
-Marc Auberer
-Amalienstraße 6
-76646 Bruchsal
-```
-
 Kontakt:
 ```
-Telefon: 01520/4079320
 E-Mail: support@corona-aid-ka.de
 ```
 
